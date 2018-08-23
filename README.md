@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/cleanique-coders/open-employee.svg?branch=master)](https://travis-ci.org/cleanique-coders/open-employee) [![Latest Stable Version](https://poser.pugx.org/cleanique-coders/open-employee/v/stable)](https://packagist.org/packages/cleanique-coders/open-employee) [![Total Downloads](https://poser.pugx.org/cleanique-coders/open-employee/downloads)](https://packagist.org/packages/cleanique-coders/open-employee) [![License](https://poser.pugx.org/cleanique-coders/open-employee/license)](https://packagist.org/packages/cleanique-coders/open-employee)
+[![Build Status](https://travis-ci.org/cleaniquecoders/open-employee.svg?branch=master)](https://travis-ci.org/cleaniquecoders/open-employee) [![Latest Stable Version](https://poser.pugx.org/cleaniquecoders/open-employee/v/stable)](https://packagist.org/packages/cleaniquecoders/open-employee) [![Total Downloads](https://poser.pugx.org/cleaniquecoders/open-employee/downloads)](https://packagist.org/packages/cleaniquecoders/open-employee) [![License](https://poser.pugx.org/cleaniquecoders/open-employee/license)](https://packagist.org/packages/cleaniquecoders/open-employee)
 
 ## About Your Package
 
@@ -7,10 +7,10 @@ Tell people about your package
 
 ## Installation
 
-1. In order to install `cleanique-coders/open-employee` in your Laravel project, just run the *composer require* command from your terminal:
+1. In order to install `cleaniquecoders/open-employee` in your Laravel project, just run the *composer require* command from your terminal:
 
 ```
-$ composer require cleanique-coders/open-employee
+$ composer require cleaniquecoders/open-employee
 ```
 
 2. Then in your `config/app.php` add the following to the providers array:
@@ -37,7 +37,7 @@ $ vendor/bin/phpunit  --testdox --verbose
 
 ## Contributing
 
-Thank you for considering contributing to the `cleanique-coders/open-employee`!
+Thank you for considering contributing to the `cleaniquecoders/open-employee`!
 
 ### Bug Reports
 
@@ -49,7 +49,7 @@ Remember, bug reports are created in the hope that others with the same problem 
 
 ## Coding Style
 
-`cleanique-coders/open-employee` follows the PSR-2 coding standard and the PSR-4 autoloading standard. 
+`cleaniquecoders/open-employee` follows the PSR-2 coding standard and the PSR-4 autoloading standard. 
 
 You may use PHP CS Fixer in order to keep things standardised. PHP CS Fixer configuration can be found in `.php_cs`.
 
